@@ -15,13 +15,14 @@
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
 <fullyQualifiedTypeName name="Sample"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
-<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
 <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
 <fullyQualifiedTypeName name="java.io.SequenceInputStream"/>
-<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 </qualifiedTypeNameHistroy>
