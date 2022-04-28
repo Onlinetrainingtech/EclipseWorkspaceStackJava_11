@@ -1,0 +1,9 @@
+create table adminlogin(uname varchar(100),pass varchar(100))
+
+insert into adminlogin values('admin','admin@123')
+
+
+
+create table product(pid varchar(100),pname varchar(100),pprice varchar(100),quty varchar(100))
+
+select * from product
